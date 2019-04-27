@@ -83,11 +83,6 @@ public class SimpleMail {
 	}
 
 
-
-
-
-
-
 	/**
 	 * 连接邮件服务器参数配置
 	 * @return
